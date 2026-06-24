@@ -17,3 +17,41 @@
 - Requests
 - Git
 - Jupyter Notebook
+
+
+## Day 2 - Data Cleaning & SQLite Database
+
+### Tasks Completed
+- Cleaned nav_history.csv
+- Parsed dates and sorted NAV data
+- Forward-filled missing NAV values
+- Removed duplicate records
+- Validated NAV values (>0)
+
+- Cleaned investor_transactions.csv
+- Standardized transaction types (SIP, Lumpsum, Redemption)
+- Validated transaction amounts
+- Verified KYC status values
+
+- Cleaned scheme_performance.csv
+- Validated numeric return metrics
+- Checked expense ratio ranges
+- Identified and handled anomalies
+
+### Database Implementation
+- Created SQLite database (bluestock_mf.db)
+- Loaded cleaned datasets using SQLAlchemy
+- Verified row counts after loading
+
+### Additional Deliverables
+- schema.sql
+- queries.sql
+- data_dictionary.md
+
+### Tools Used
+- Python
+- Pandas
+- SQLAlchemy
+- SQLite
+- Jupyter Notebook
+- Git & GitHub
