@@ -55,3 +55,26 @@
 - SQLite
 - Jupyter Notebook
 - Git & GitHub
+
+- ## Day 3 - Exploratory Data Analysis (EDA)
+
+### Completed Tasks
+- Created 15+ analytical charts
+- NAV Trend Analysis
+- AUM Growth Analysis
+- SIP Trend Analysis
+- Category Inflow Heatmap
+- Investor Demographics
+- Geographic Distribution
+- Folio Growth
+- Correlation Matrix
+- Sector Allocation
+- Business Insights
+- Exported PNG Charts
+
+### Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
