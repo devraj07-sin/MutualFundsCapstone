@@ -56,7 +56,8 @@
 - Jupyter Notebook
 - Git & GitHub
 
-- ## Day 3 - Exploratory Data Analysis (EDA)
+ 
+ ## Day 3 - Exploratory Data Analysis (EDA)
 
 ### Completed Tasks
 - Created 15+ analytical charts
