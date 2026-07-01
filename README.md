@@ -151,3 +151,100 @@ Compared the top-performing funds with benchmark indices and calculated Tracking
 
 ---
 Developed as part of the Bluestock Mutual Fund Capstone Project.
+
+
+
+# 📊 Bluestock Mutual Fund Dashboard (Power BI)
+
+## 📌 Overview
+This project is an interactive Mutual Fund Dashboard built using Power BI. It analyzes industry trends, fund performance, investor behavior, and SIP/market movements using multiple financial datasets.
+
+> Tool Used: Power BI (Tableau was also an option, but Power BI was used for implementation)
+
+---
+
+## 🎯 Objectives
+- Analyze Mutual Fund industry performance
+- Track AUM, SIP inflows, and folio growth
+- Evaluate fund performance based on risk and returns
+- Understand investor behavior across states, age groups, and categories
+- Compare SIP inflows with market index (Nifty 50)
+
+---
+
+## 🧰 Tools Used
+- Power BI Desktop
+- Data Modeling & Relationships (amfi_code, date)
+- DAX Measures
+- CSV Datasets
+
+---
+
+## 📂 Dataset
+The project includes 8 cleaned datasets:
+- Fund Master Data  
+- NAV History  
+- AUM by Fund House  
+- SIP Inflows  
+- Category Inflows  
+- Investor Transactions  
+- Scheme Performance  
+- Industry Folio Data  
+
+---
+
+## 📊 Dashboard Pages
+
+### 1. Industry Overview
+- KPI Cards: Total AUM, SIP Inflows, Folios, Schemes  
+- AUM Trend (2022–2025)  
+- AUM by AMC  
+
+---
+
+### 2. Fund Performance
+- Return vs Risk Scatter Plot  
+- Fund Scorecard Table  
+- NAV vs Benchmark Trend  
+- Filters: Fund House, Category, Plan  
+
+---
+
+### 3. Investor Analytics
+- State-wise Transaction Analysis  
+- SIP vs Lumpsum Distribution  
+- Age Group vs Average SIP  
+- Monthly Transaction Trends  
+
+---
+
+### 4. SIP & Market Trends
+- SIP Inflow vs Nifty 50 (Dual Axis Chart)  
+- Category-wise Inflow Heatmap  
+- Top 5 Categories by Net Inflows  
+
+---
+
+## ⚙️ Features
+- Interactive slicers and filters  
+- Drill-through navigation  
+- Tooltips on visuals  
+- Multi-page dashboard  
+- Bluestock theme UI  
+
+---
+
+## 📦 Deliverables
+- .pbix Power BI file  
+- Dashboard PDF export  
+- 4 PNG page screenshots  
+
+---
+
+## 🚀 Learnings
+- Data modeling in Power BI  
+- Financial dashboard design  
+- KPI and trend visualization  
+- Real-world investor analytics  
+
+---
